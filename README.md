@@ -1,6 +1,6 @@
 # Hi 👋, I am Geraldine Adi R
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codev911&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codev911&hide=css,scss,html&theme=tokyonight)
 
 <!--
 **codev911/codev911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
